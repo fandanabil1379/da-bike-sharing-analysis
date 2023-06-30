@@ -13,12 +13,6 @@ Business Task
 ------------
 Analyze Cyclistic historical bike trip data to identify the behavior of the casual rider and annual member to enhance the number of annual members through marketing strategies to increase profit.
 
-Project Limitations
-------------
-1. This project uses no CYCLISTIC’s bike historical data from Q1 2023
-2. This project doesn’t include implementing any solutions or recommendations. This activity
-included in a marketing team project
-
 Project Organization
 ------------
 
@@ -63,11 +57,6 @@ Project Organization
     │       └── visualize.py
     │
     └── tox.ini            <- tox file with settings for running tox; see tox.readthedocs.io
-
-
-Project Organization
-------------
-
 
 --------
 
