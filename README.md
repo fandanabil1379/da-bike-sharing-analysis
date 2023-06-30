@@ -20,7 +20,7 @@ Project Organization
 
     ├── README.md          <- The top-level README for developers using this project.
     ├── data
-    │   ├── processed      <- The final, canonical data sets for modeling.
+    │   ├── processed      <- The final, canonical data sets for analysis.
     │   └── raw            <- The original, immutable data dump.
     │
     ├── docs               <- The document will consist of a detailed analysis and visualization.
