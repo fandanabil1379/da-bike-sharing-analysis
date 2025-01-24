@@ -15,28 +15,21 @@ Analyze Cyclistic historical bike trip data to identify the behavior of the casu
 Project Organization
 ------------
 
-    ├── README.md          <- The top-level README for developers using this project.
-    ├── data
-    │   ├── processed      <- The final, canonical data sets for analysis.
-    │   └── raw            <- The original, immutable data dump.
-    │
-    ├── docs               <- The document will consist of a detailed analysis and visualization.
-    │
-    ├── notebooks          <- Jupyter notebooks. A naming convention is a number (for ordering),
-    │                         the creator's initials, and a short `-` delimited description, e.g.
-    │                         `1.0-initial-data-exploration`.
-    │
-    ├── references         <- Data dictionaries, manuals, and all other explanatory materials.
-    │
-    ├── reports            
-    │   └── figures        <- Generated graphics and figures to be used in reporting
-    │
-    ├── requirements.txt   <- The requirements file for reproducing the analysis environment, e.g.
-    │                         generated with `pip freeze > requirements.txt`
-    │
-    ├── setup.py           <- makes project pip installable (pip install -e .) so src can be imported
-    │
-    └── tox.ini            <- tox file with settings for running tox; see tox.readthedocs.io
+The repository is organized as follows:
 
---------
+📁 bike-sharing-analysis/
+    │
+    ├── 📁 data/                   # Raw and processed data
+    ├── 📁 notebooks/              # Jupyter Notebooks for EDA and experimentation
+    ├── 📁 reports/                # Documentation (figure, etc).
+    └── 📄 README.md               # Project documentation
+
+Get Involved
+------------
+
+We welcome contributions! If you'd like to improve this project, feel free to:
+- Open an issue for suggestions or bug reports
+- Submit a pull request with enhancements or fixes
+
+Let's build a smarter, data-driven approach to customer retention together! 🎯
 
