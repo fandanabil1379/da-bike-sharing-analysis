@@ -23,6 +23,16 @@ The repository is organized as follows:
     ├── 📁 notebooks/              # Jupyter Notebooks for EDA and experimentation
     ├── 📁 reports/                # Documentation (figure, etc).
     └── 📄 README.md               # Project documentation
+
+The repository is organized as follows:
+
+    📁 telco-customer-churn/
+    │
+    ├── 📁 data/                   # Raw and processed data
+    ├── 📁 model/                  # Final model
+    ├── 📁 notebooks/              # Jupyter Notebooks for EDA and experimentation
+    ├── 📁 scripts/                # Python scripts for preprocessing, training, etc.
+    └── 📄 README.md               # Project documentation
     
 
 Get Involved
